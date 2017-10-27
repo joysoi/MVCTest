@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NatGeoQuiz</string>
+    <string name="question_australia">Cambera is the capital of Australia?</string>
+    <string name="question_oceans">The Pacific ocean is bigger than the Atlantic Ocean?</string>
+    <string name="question_mideast">The Suez canal connects the Red Sea and the Indian Ocean?</string>
+    <string name="question_africa">The source of the Nile river is in Egypt?</string>
+    <string name="question_america">the Amazon river is the longest in length?</string>
+    <string name="question_asia">The Baikal Lake is the world\'s deepest and oldest freshwater lake?</string>
+    <string name="true_btn">True</string>
+    <string name="false_btn">False</string>
+    <string name="next_btn">Next</string>
+    <string name="prev_btn">Prev</string>
+    <string name="msg_correct">Correct</string>
+    <string name="msg_incorrect">Wrong</string>
+</resources>
