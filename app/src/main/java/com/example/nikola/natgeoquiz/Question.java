@@ -1,6 +1,6 @@
 package com.example.nikola.natgeoquiz;
 
-public class Question {
+class Question {
 
     private int mTxtResId;
     private boolean mAnswerTrue;
