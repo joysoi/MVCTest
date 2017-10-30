@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.example.nikola.natgeoquiz.MainActivity">
+    tools:context="com.example.nikola.natgeoquiz.QuizActivity">
 
     <TextView
         android:id="@+id/question_txt_view"
@@ -40,6 +40,12 @@
         android:orientation="horizontal">
 
         <Button
+            android:id="@+id/cheat_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cheat_button"/>
+
+        <Button
             android:id="@+id/next_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -54,5 +60,12 @@
             android:text="@string/prev_btn"/>
 
     </LinearLayout>
+
+    <TextView
+        android:id="@+id/txt_number_cheats"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        />
 
 </LinearLayout>
