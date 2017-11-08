@@ -1,2 +1,2 @@
 # MVCTest
-creating and testing mvc architecture
+Creating and testing mvc architecture
